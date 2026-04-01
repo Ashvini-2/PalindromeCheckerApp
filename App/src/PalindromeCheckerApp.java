@@ -18,6 +18,7 @@ public class PalindromeCheckerApp {
         }
         else
         {
+
             System.out.println("It is NOT a Palindrome");
         }
         sc.close();
